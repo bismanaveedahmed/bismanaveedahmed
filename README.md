@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F7A43A&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Bisma+%F0%9F%91%8B;Frontend+Developer;BS+IoT+Student+%40+Superior+University;Building+responsive+web+interfaces" alt="Typing intro" />
 
-<a href="https://www.linkedin.com/in/bisma-naveed-ahmed-431742318"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/bismanaveedahmed"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:bismanav88@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
